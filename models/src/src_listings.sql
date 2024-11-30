@@ -8,6 +8,7 @@ SELECT
     LISTING_URL,
     ROOM_TYPE,
     MINIMUM_NIGHTS,
+    host_id,
     PRICE AS PRICE_STR,
     CREATED_AT,
     UPDATED_AT
